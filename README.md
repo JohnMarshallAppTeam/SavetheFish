@@ -3,7 +3,7 @@ SavetheFish
     Created by John Marshall App Team 
 
 ##Purpose / Goal
-    Our hope is that this game will be a way to help solve problems that are occuring in our  oceans toady. We also hope that this project will be a way to raise money for donations to organizations that work to clean up our oceans. 
+Our hope is that this game will be a way to help solve problems that are occuring in our  oceans toady. We also hope that this project will be a way to raise money for donations to organizations that work to clean up our oceans. 
 
 ###Members of John Marshall App Team
 - Ami Patel
