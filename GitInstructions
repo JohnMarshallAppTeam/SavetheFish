@@ -1,0 +1,11 @@
+git clone git://github.com/JohnMarshallAppTeam/SavetheFish.git
+
+This will create a folder named "SavetheFish" that will have the repository already initialized
+
+Before working on any code type (git pull .) to make sure that you have the most up to date code
+
+When ready to commit type 
+    git add .
+    git commit -m "Your Message Goes Here"
+    git push origin master
+Then type in your credentials
